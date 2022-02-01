@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shubham Kumar Agrawal
-- 👀 I’m interested in Software Engineering Roles
-- 🌱 I’m currently learning Problem Solving Skills
+- 🌱 I loves Problem Solving.
 - 📫 How to reach me LinkedIn via https://www.linkedin.com/in/shubham-kumar24/
 
 <!---
